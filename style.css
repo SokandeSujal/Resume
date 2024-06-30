@@ -1,0 +1,122 @@
+#cIntro{
+    padding-top: 1px;
+}
+
+#GI:hover{
+    height: 20px;
+}
+
+#WI:hover{
+    height: 20px;
+}
+#LI:hover{
+    height: 20px;
+}
+#II:hover{
+    height: 20px;
+}
+#PI:hover{
+    height: 20px;
+}
+
+#cIntro h1{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.CInfo{
+    margin-top: 160px;
+    margin-bottom: 160px;
+    font-size: larger;
+}
+
+body{
+    background-color: #FDF7E4;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    color: #393E46;
+}
+
+#myPic{
+    padding-top: 10px;
+    border-radius: 50%;
+}
+
+#myPic:hover{
+    height: 300px;
+}
+
+.intro{
+    background-color: #FAEED1;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    border-bottom: 1.5px solid #BBAB8C ;
+}
+
+.intro h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.intro p{
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 10px;
+}
+
+h2{
+    margin: 0;
+    padding: 0;
+    border-bottom: 1.5px solid #BBAB8C ;
+}
+
+.Info{
+    padding: 10px;
+    margin: 0;
+    background-color: #FDF7E4;
+}
+
+h1{
+    font-size: 2rem;
+    color: #393E46;
+}
+
+p{
+    color: black;
+}
+
+h2{
+    color: #393E46;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+footer{
+    background-color: #BBAB8C;
+    padding-top: 10px;
+    text-align: center;
+}
+
+footer a{
+    color: white;
+    font-size: 1.5rem;
+    text-decoration: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+footer a:hover{
+    color: #393E46;
+}
+
+footer p{
+    font-size: 1rem;
+    padding-top: 0px;
+    margin-top: 4px;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+}
